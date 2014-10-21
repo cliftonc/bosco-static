@@ -1,4 +1,10 @@
 h1 {
-    color: purple;
+    color: silver;
 }
 
+.bosco-image {
+    background-image: url('../img/bosco-complete.png');
+    background-repeat: no-repeat;
+    width: 120px;
+    height: 150px;
+}
