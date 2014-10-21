@@ -3,5 +3,9 @@ body {
     color: white;
 }
 
+.date {
+    font-size: 8em;
+    font-weight: bold;
+}
 
 
