@@ -1,0 +1,23 @@
+{
+    "files": {
+        "topBundle": {
+            "basePath": "public/",
+            "js": [
+                "js/file1.js",
+                "js/file2.js"
+            ],
+            "css": [
+                "css/stylin.css",
+                "css/more-stylin.css"
+            ],
+            "img": [
+                "img/bosco-complete.png"
+            ]
+        },
+        "templates": {
+            "html": [
+                "templates/template.html"
+            ]
+        }
+    }
+}
